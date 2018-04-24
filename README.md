@@ -2,7 +2,7 @@
 >Visit [JavaScript30](https://javascript30.com/) ~~and follow suit~~.
 
 **Goals setting**<p>
->* Get over fear over javascript learning.<p>
->* Hands-on and record.<p>
+>1. Get over fear over javascript learning.<p>
+>2. Hands-on and record.<p>
 
 **List**
