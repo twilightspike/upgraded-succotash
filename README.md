@@ -5,6 +5,6 @@
 >1. Get over fear over javascript learning.<p>
 >2. Hands-on and record.<p>
 ---
-**List**
-| No  | Theme | Note  | Expected Date
+**List**<p>
+|No.|Theme|Note|Expected Date
 ---
